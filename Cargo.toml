@@ -1,0 +1,16 @@
+[package]
+name = "diffside"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kayne Amornvivat <33359595+kaynenotkanye@users.noreply.github.com>"]
+description = "A CLI tool for side-by-side file diffs with themed highlighting."
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/kaynenotkanye/diffside"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+console = "0.15"
+pager = "0.16"
+similar = "2.2"
+textwrap = { version = "0.16", features = ["terminal_size"] }

@@ -1,0 +1,10 @@
+This is the first file.
+It contains a list of items:
+- Apples
+- Bananas
+- Cherries
+
+This line will be removed.
+And this line will be modified slightly.
+
+This is a very long line that should wrap when printed in a narrow terminal. It includes many words and commas, just to test the wrapping functionality of the tool.

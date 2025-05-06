@@ -1,0 +1,10 @@
+This is the second file.
+It contains a list of items:
+- Apples
+- Bananas
+- Dragonfruit
+
+This line was added.
+And this line will be modified slightly by adding more words at the end.
+
+This is a very long line that should wrap when printed in a narrow terminal. It includes many words and commas, just to test the wrapping and paging functionality of the diffside tool.
